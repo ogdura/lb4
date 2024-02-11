@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dsvkndsvnds:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dsvkndsvnds</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dsvkndsvnds-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dsvkndsvnds:war exploded" />
+    </root>
+  </artifact>
+</component>
